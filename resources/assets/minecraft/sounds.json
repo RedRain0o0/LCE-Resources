@@ -1,0 +1,140 @@
+{
+    "music.menu": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/flake",
+                "stream": true
+            }
+        ]
+    },
+    "music.game": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/flake",
+                "stream": true
+            },
+            {
+                "name": "music/kyoto",
+                "stream": true
+            }
+        ]
+    },
+    "music.creative": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/flake",
+                "stream": true
+            },
+            {
+                "name": "music/kyoto",
+                "stream": true
+            }
+        ]
+    },
+    "music.end": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmas_the_end",
+                "stream": true
+            }
+        ]
+    },
+    "music.dragon": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmas_the_end",
+                "stream": true
+            }
+        ]
+    },
+    "music.credits": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmas_the_end",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.soul_sand_valley": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmasn1",
+                "stream": true
+            },
+            {
+                "name": "music/xmasn2",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.crimson_forest": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmasn1",
+                "stream": true
+            },
+            {
+                "name": "music/xmasn2",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.warped_forest": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmasn1",
+                "stream": true
+            },
+            {
+                "name": "music/xmasn2",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.nether_wastes": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmasn1",
+                "stream": true
+            },
+            {
+                "name": "music/xmasn2",
+                "stream": true
+            }
+        ]
+    },
+    "music.nether.basalt_deltas": {
+        "category": "music",
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/xmasn1",
+                "stream": true
+            },
+            {
+                "name": "music/xmasn2",
+                "stream": true
+            }
+        ]
+    }
+}

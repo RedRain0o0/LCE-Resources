@@ -1,0 +1,8 @@
+{
+  "legacy.menu.festive": {
+    "icon": "festive:creation_list/festive",
+    "templateLocation": "festive:saves/festive.mcsave",
+    "folderName": "Festive",
+    "directJoin": true
+  }
+}
